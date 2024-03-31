@@ -1,0 +1,22 @@
+/*STYLE*/
+@import '../client.css/css/import/fonts.css';
+@import '../client.css/css/import/global.css';
+@import '../client.css/css/import/header.css';
+@import '../client.css/css/import/footer.css';
+@import '../client.css/css/import/home.css';
+@import '../client.css/css/import/category_product.css';
+@import '../client.css/css/import/blog.css';
+@import '../client.css/css/import/detail_product.css';
+@import '../client.css/css/import/detail_blog.css';
+@import '../client.css/css/import/cart.css';
+@import '../client.css/css/import/checkout.css';
+@import '../client.css/css/import/sub.css';
+@import '../client.css/css/import/checkout_success.css';
+
+
+
+
+/* CSS icon in sweetalert2 */
+.swal2-icon{
+    margin: 20px auto;
+}

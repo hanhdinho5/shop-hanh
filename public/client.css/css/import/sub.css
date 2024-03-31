@@ -1,0 +1,4 @@
+ul.flex-product{
+    display: flex;
+    flex-wrap: wrap;
+}
